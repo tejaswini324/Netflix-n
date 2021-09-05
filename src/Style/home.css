@@ -1,0 +1,677 @@
+.container {
+  margin-left: -11px;
+  width: 1536px;
+}
+.header{
+  padding-top: 19px;
+  width: 1476px;
+  height: 60px;
+  margin: 0px 25px 0px 25px;
+  background-color: black;
+}
+
+.navbar{
+  display: inline-block;
+  margin-top: -15px;
+  padding-left: 182px;
+  color: white;
+}
+.navbar1{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar2{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar3{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar4{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar5{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar6{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.navbar7{
+  display: inline-block;
+  margin-top: -5px;
+  padding-left: 30px;
+  color: white;
+}
+.img{
+  width: 160px;
+  height: 60px;
+  padding-left: 2px;
+  padding-top: -56px;
+  position: absolute;
+  margin-top: -21px;
+}
+.body{
+  background-color: black;
+}
+.bibi-search{
+  color: white;
+  margin-left: 35%;
+}
+.bibi-bell{
+  color: white;
+  margin-left: 1%;
+  position: absolute;
+}
+.bibi-caret-down-fill{
+  color: white;
+  margin-left: 6%;
+  position: absolute;
+}
+.bibi-emoji-smile{
+  color: white;
+  margin-left: 4%;
+  position: absolute;
+}
+.body{
+  background-color: black;
+}
+.h40{
+  color: white;
+  margin-left: 3%;
+  margin-top: 10px;
+  position: absolute;
+}
+.h41{
+  color: white;
+  margin-left: 4%;
+  margin-top: 240px;
+  position: absolute;
+}
+.h42{
+  color: white;
+  margin-left: 4%;
+  margin-top: 480px;
+  position: absolute;
+}
+.h43{
+  color: white;
+  margin-left: 4%;
+  margin-top: 720px;
+  position: absolute;
+}
+.row{
+  display: inline-block;
+  margin-bottom: 37px;
+}
+.col{
+  border: white solid 2px;
+  display: inline-block;
+}
+.post{
+  margin-top: 40px;
+  margin-left: 33px;
+}
+.post1{
+  width: 280px;
+    height: 200px;
+}
+@media (min-width: 576px)
+{
+  .container {
+    margin-left: -11px;
+    width: 1536px;
+  }
+  .header{
+    padding-top: 19px;
+    width: 1476px;
+    height: 60px;
+    margin: 0px 25px 0px 25px;
+    background-color: black;
+  }
+  
+  .navbar{
+    display: inline-block;
+    margin-top: -15px;
+    padding-left: 182px;
+    color: white;
+  }
+  .navbar1{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar2{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar3{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar4{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar5{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar6{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar7{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .img{
+    width: 160px;
+    height: 60px;
+    padding-left: 2px;
+    padding-top: -56px;
+    position: absolute;
+    margin-top: -21px;
+  }
+  .body{
+    background-color: black;
+  }
+  .bibi-search{
+    color: white;
+    margin-left: 35%;
+  }
+  .bibi-bell{
+    color: white;
+    margin-left: 1%;
+    position: absolute;
+  }
+  .bibi-caret-down-fill{
+    color: white;
+    margin-left: 6%;
+    position: absolute;
+  }
+  .bibi-emoji-smile{
+    color: white;
+    margin-left: 4%;
+    position: absolute;
+  }
+  .body{
+    background-color: black;
+  }
+  .h40{
+    color: white;
+    margin-left: 3%;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .h41{
+    color: white;
+    margin-left: 4%;
+    margin-top: 240px;
+    position: absolute;
+  }
+  .h42{
+    color: white;
+    margin-left: 4%;
+    margin-top: 480px;
+    position: absolute;
+  }
+  .h43{
+    color: white;
+    margin-left: 4%;
+    margin-top: 720px;
+    position: absolute;
+  }
+  .row{
+    display: inline-block;
+    margin-bottom: 37px;
+  }
+  .col{
+    border: white solid 2px;
+    display: inline-block;
+  }
+  .post{
+    margin-top: 40px;
+    margin-left: 33px;
+  }
+  .post1{
+    width: 280px;
+      height: 200px;
+  }
+}
+@media (min-width: 768px)
+{
+  .container {
+    margin-left: -11px;
+    width: 1536px;
+  }
+  .header{
+    padding-top: 19px;
+    width: 1476px;
+    height: 60px;
+    margin: 0px 25px 0px 25px;
+    background-color: black;
+  }
+  
+  .navbar{
+    display: inline-block;
+    margin-top: -15px;
+    padding-left: 182px;
+    color: white;
+  }
+  .navbar1{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar2{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar3{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar4{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar5{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar6{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar7{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .img{
+    width: 160px;
+    height: 60px;
+    padding-left: 2px;
+    padding-top: -56px;
+    position: absolute;
+    margin-top: -21px;
+  }
+  .body{
+    background-color: black;
+  }
+  .bibi-search{
+    color: white;
+    margin-left: 35%;
+  }
+  .bibi-bell{
+    color: white;
+    margin-left: 1%;
+    position: absolute;
+  }
+  .bibi-caret-down-fill{
+    color: white;
+    margin-left: 6%;
+    position: absolute;
+  }
+  .bibi-emoji-smile{
+    color: white;
+    margin-left: 4%;
+    position: absolute;
+  }
+  .body{
+    background-color: black;
+  }
+  .h40{
+    color: white;
+    margin-left: 3%;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .h41{
+    color: white;
+    margin-left: 4%;
+    margin-top: 240px;
+    position: absolute;
+  }
+  .h42{
+    color: white;
+    margin-left: 4%;
+    margin-top: 480px;
+    position: absolute;
+  }
+  .h43{
+    color: white;
+    margin-left: 4%;
+    margin-top: 720px;
+    position: absolute;
+  }
+  .row{
+    display: inline-block;
+    margin-bottom: 37px;
+  }
+  .col{
+    border: white solid 2px;
+    display: inline-block;
+  }
+  .post{
+    margin-top: 40px;
+    margin-left: 33px;
+  }
+  .post1{
+    width: 280px;
+      height: 200px;
+  }
+}
+@media (min-width: 992px) 
+{
+  .container {
+    margin-left: -11px;
+    width: 1536px;
+  }
+  .header{
+    padding-top: 19px;
+    width: 1476px;
+    height: 60px;
+    margin: 0px 25px 0px 25px;
+    background-color: black;
+  }
+  
+  .navbar{
+    display: inline-block;
+    margin-top: -15px;
+    padding-left: 182px;
+    color: white;
+  }
+  .navbar1{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar2{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar3{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar4{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar5{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar6{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar7{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .img{
+    width: 160px;
+    height: 60px;
+    padding-left: 2px;
+    padding-top: -56px;
+    position: absolute;
+    margin-top: -21px;
+  }
+  .body{
+    background-color: black;
+  }
+  .bibi-search{
+    color: white;
+    margin-left: 35%;
+  }
+  .bibi-bell{
+    color: white;
+    margin-left: 1%;
+    position: absolute;
+  }
+  .bibi-caret-down-fill{
+    color: white;
+    margin-left: 6%;
+    position: absolute;
+  }
+  .bibi-emoji-smile{
+    color: white;
+    margin-left: 4%;
+    position: absolute;
+  }
+  .body{
+    background-color: black;
+  }
+  .h40{
+    color: white;
+    margin-left: 3%;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .h41{
+    color: white;
+    margin-left: 4%;
+    margin-top: 240px;
+    position: absolute;
+  }
+  .h42{
+    color: white;
+    margin-left: 4%;
+    margin-top: 480px;
+    position: absolute;
+  }
+  .h43{
+    color: white;
+    margin-left: 4%;
+    margin-top: 720px;
+    position: absolute;
+  }
+  .row{
+    display: inline-block;
+    margin-bottom: 37px;
+  }
+  .col{
+    border: white solid 2px;
+    display: inline-block;
+  }
+  .post{
+    margin-top: 40px;
+    margin-left: 33px;
+  }
+  .post1{
+    width: 280px;
+      height: 200px;
+  }
+}
+@media (min-width: 1200px)
+{
+  .container {
+    margin-left: -11px;
+    width: 1536px;
+  }
+  .header{
+    padding-top: 19px;
+    width: 1476px;
+    height: 60px;
+    margin: 0px 25px 0px 25px;
+    background-color: black;
+  }
+  
+  .navbar{
+    display: inline-block;
+    margin-top: -15px;
+    padding-left: 182px;
+    color: white;
+  }
+  .navbar1{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar2{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar3{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar4{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar5{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar6{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .navbar7{
+    display: inline-block;
+    margin-top: -5px;
+    padding-left: 30px;
+    color: white;
+  }
+  .img{
+    width: 160px;
+    height: 60px;
+    padding-left: 2px;
+    padding-top: -56px;
+    position: absolute;
+    margin-top: -21px;
+  }
+  .body{
+    background-color: black;
+  }
+  .bibi-search{
+    color: white;
+    margin-left: 35%;
+  }
+  .bibi-bell{
+    color: white;
+    margin-left: 1%;
+    position: absolute;
+  }
+  .bibi-caret-down-fill{
+    color: white;
+    margin-left: 6%;
+    position: absolute;
+  }
+  .bibi-emoji-smile{
+    color: white;
+    margin-left: 4%;
+    position: absolute;
+  }
+  .body{
+    background-color: black;
+  }
+  .h40{
+    color: white;
+    margin-left: 3%;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .h41{
+    color: white;
+    margin-left: 4%;
+    margin-top: 240px;
+    position: absolute;
+  }
+  .h42{
+    color: white;
+    margin-left: 4%;
+    margin-top: 480px;
+    position: absolute;
+  }
+  .h43{
+    color: white;
+    margin-left: 4%;
+    margin-top: 720px;
+    position: absolute;
+  }
+  .row{
+    display: inline-block;
+    margin-bottom: 37px;
+  }
+  .col{
+    border: white solid 2px;
+    display: inline-block;
+  }
+  .post{
+    margin-top: 40px;
+    margin-left: 33px;
+  }
+  .post1{
+    width: 280px;
+      height: 200px;
+  }
+}
